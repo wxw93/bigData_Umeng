@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-analyze-common/app-analyze-common.iml" filepath="$PROJECT_DIR$/app-analyze-common/app-analyze-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-log-collect-web/app-log-collect-web.iml" filepath="$PROJECT_DIR$/app-log-collect-web/app-log-collect-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-logs-phone/app-logs-phone.iml" filepath="$PROJECT_DIR$/app-logs-phone/app-logs-phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/big_umeng.iml" filepath="$PROJECT_DIR$/big_umeng.iml" />
+    </modules>
+  </component>
+</project>
